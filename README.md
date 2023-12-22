@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ive been passionate about coding since I was 13 starting with Minecraft plugins in Java Im now a student in 42 Perpignan learning C/C++ Language
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [lukemontgomery@outlook.fr](mailto:lukemontgomery@outlook.fr)
+* ✉️  You can contact me at [lukemontgomery@outlook.fr](mailto:lukemontgomery@outlook.fr)      <img src="[https://your-image-url.type](https://github.com/BiGZ31/BiGZ31/assets/101286697/f1bd88ed-c4a7-4b36-834e-02b7c1abcc38)https://github.com/BiGZ31/BiGZ31/assets/101286697/f1bd88ed-c4a7-4b36-834e-02b7c1abcc38" width="100" height="100">
 * 🧠  I'm learning C++ and C
 
 ### Skills
@@ -25,5 +25,3 @@ Ive been passionate about coding since I was 13 starting with Minecraft plugins 
 ### Badges
 
 <a href="https://github.com/BiGZ31" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiGZ31&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<img src="[https://your-image-url.type](https://github.com/BiGZ31/BiGZ31/assets/101286697/f1bd88ed-c4a7-4b36-834e-02b7c1abcc38)https://github.com/BiGZ31/BiGZ31/assets/101286697/f1bd88ed-c4a7-4b36-834e-02b7c1abcc38" width="100" height="100">
