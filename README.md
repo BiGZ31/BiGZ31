@@ -9,6 +9,7 @@ Ive been passionate about coding since I was 13 starting with Minecraft plugins 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [lukemontgomery@outlook.fr](mailto:lukemontgomery@outlook.fr)
 * 🧠  I'm learning C++ and C
+* ⚡︎   Fun fact, I often shower.
 
 ### Skills
 
