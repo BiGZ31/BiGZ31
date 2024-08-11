@@ -8,12 +8,6 @@
 
 <p align="center">I've been passionate about coding since I was 13 starting with Minecraft plugins in Java. I'm now a student in 42 Perpignan learning C/C++ Language</p>
 
-<ul align="center">
-  <li>🌍 I'm based in France</li>
-  <li>✉️ You can contact me at <a href="mailto:lukemontgomery@outlook.fr">lukemontgomery@outlook.fr</a></li>
-  <li>🧠 I'm learning C++ and C</li>
-  <li>⚡︎ Fun fact, I often shower.</li>
-</ul>
 
 <h3 align="center">Skills</h3>
 
